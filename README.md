@@ -29,3 +29,4 @@ $ docker-compose up
 - [ ] Allow code watching for auto-reload when saving new code instead of always typing in `docker-compose up`
   - [x] Frontend auto-reload on save (HMR available w/ Parcel)
   - [ ] Backend auto-reload on save
+- [ ] Create better documentation please :pray: 
