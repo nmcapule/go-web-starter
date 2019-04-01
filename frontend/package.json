@@ -1,0 +1,17 @@
+{
+  "name": "contractor.ph-frontend",
+  "version": "0.1.0",
+  "description": "Frontend component of the contractor.ph project",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --hmr-port 1235",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
