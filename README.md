@@ -4,7 +4,7 @@ This is a starter project for a Parcel+Go+Postgres+Docker setup.
 
 ## Setup
 
-Install `docker-compose` (and probably `docker` too), then type the following on the root folder:
+Install `docker-compose` (and probably `docker` too), then type the following on the project root folder:
 
 ```shell
 $ ./app.sh build
