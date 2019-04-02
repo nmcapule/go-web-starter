@@ -1,6 +1,6 @@
-# Starter for Vue+Go+Postgres+Docker
+# Starter for Parcel+Go+Postgres+Docker
 
-This is a starter project for a Vue+Go+Postgres+Docker setup.
+This is a starter project for a Parcel+Go+Postgres+Docker setup.
 
 ## Setup
 
